@@ -2,7 +2,7 @@
 
 # Do-you-really-want-to-Google-it
 
-Google検索時に、確認confirmを表示するスクリプト
+Google検索時に、confirmを表示するスクリプト
 
 ![img](img/img1.png)
 
